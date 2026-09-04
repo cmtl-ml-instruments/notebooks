@@ -1,10 +1,10 @@
 # Notebooks
 
-Weekly notebooks for the ML-Driven Instruments team.
+Weekly notebooks for this team. One folder per person.
 
-Everything here can be done **in your browser**. You do not need to install git,
-and you do not need to know how to use it. That comes later, when we have a
-reason for it.
+Everything here can be done **in your browser**. You do not need to install
+git, and you do not need to know how to use it. That comes later, when there is
+a reason for it.
 
 ## Posting your first entry
 
@@ -16,38 +16,34 @@ reason for it.
    ```
 
    Typing the slash makes the folder. You only ever edit files inside your own
-   folder, which means you can't collide with anyone else.
+   folder, so you can't collide with anyone else.
 
-3. Copy the contents of [`_template/week-01.md`](_template/week-01.md) into the
-   editor and fill it in.
-4. Scroll down, click **Commit changes**.
+3. Copy the contents of [`TEMPLATE.md`](TEMPLATE.md) into the editor and fill it
+   in.
+4. Scroll down and click **Commit changes**.
 
-That's it. You've made a real commit.
+That's it — you've made a real commit.
 
 ## Editing something you already posted
 
-Open your file, click the pencil icon, make the change, commit again. Every
-version is kept, so you can't lose work by editing.
+Open your file, click the pencil icon, edit, commit again. Every version is
+kept, so you cannot lose work by changing it.
 
 ## Adding images, audio or a PDF
 
-**Add file → Upload files**, drag them in, commit. Put them in your own folder.
-To show an image in your notebook, reference it by filename:
+**Add file → Upload files**, drag them in, commit. Keep them in your own folder.
+To show an image inside your notebook:
 
 ```markdown
 ![what it is](my-photo.jpg)
 ```
 
-## What goes where
+## Where things live
 
-| Path | What |
+| | |
 |---|---|
 | `firstname-lastname/` | Your notebook. Yours alone. |
-| `_template/` | The weekly template. Copy it, don't edit it. |
-| `team/` | Shared reading, links, anything the whole team uses. |
+| `TEMPLATE.md` | The weekly template. Copy it; don't edit it. |
 
-## Your notebook is graded
-
-Against the VIP notebook rubric, which is in Teams. The template is built to
-match it — if you fill in every heading, you have covered everything the rubric
-asks for.
+**Assignments and deadlines are posted in Teams, not here.** This repository is
+where the work goes, not where it is announced.
