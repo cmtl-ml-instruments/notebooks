@@ -8,21 +8,20 @@ a reason for it.
 
 ## Posting your first entry
 
-1. Click **Add file → Create new file** at the top of this page.
-2. In the filename box, type your name, then a slash, then the week:
+Your folder already exists and your first notebook is already in it.
 
-   ```
-   firstname-lastname/week-01.md
-   ```
-
-   Typing the slash makes the folder. You only ever edit files inside your own
-   folder, so you can't collide with anyone else.
-
-3. Copy the contents of [`TEMPLATE.md`](TEMPLATE.md) into the editor and fill it
-   in. Just type under the headings — you do not need to know any formatting.
-4. Scroll down and click **Commit changes**.
+1. Click your folder above — `firstname-lastname/`.
+2. Click **week-01.md**.
+3. Click the **pencil icon** at the top right.
+4. Fill it in, scroll down, click **Commit changes**.
 
 That's it — you've made a real commit.
+
+## Starting a new week
+
+Same thing, one extra step. Inside your folder, click
+**Add file → Create new file**, name it `week-02.md`, and paste in
+[`TEMPLATE.md`](TEMPLATE.md).
 
 ## Editing something you already posted
 
