@@ -1,5 +1,8 @@
 # Week N — title
 
+*Copy this, or write it however you like somewhere else and upload a PDF.
+The headings are what matters, not the format.*
+
 **Name:**
 **Credit hours:**
 **Date:**

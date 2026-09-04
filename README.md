@@ -19,7 +19,7 @@ a reason for it.
    folder, so you can't collide with anyone else.
 
 3. Copy the contents of [`TEMPLATE.md`](TEMPLATE.md) into the editor and fill it
-   in.
+   in. Just type under the headings — you do not need to know any formatting.
 4. Scroll down and click **Commit changes**.
 
 That's it — you've made a real commit.
@@ -28,6 +28,20 @@ That's it — you've made a real commit.
 
 Open your file, click the pencil icon, edit, commit again. Every version is
 kept, so you cannot lose work by changing it.
+
+## Or just upload a file
+
+If you would rather write in Word, Google Docs, Pages or anything else, do
+that and upload the **PDF**. Same place — **Add file → Upload files**, into
+your own folder, named for the week:
+
+```
+firstname-lastname/week-01.pdf
+```
+
+GitHub displays PDFs in the browser, so nobody has to download it to read it.
+Write wherever you are comfortable; what matters is that the work is here,
+weekly, with your name and the date on it.
 
 ## Adding images, audio or a PDF
 
