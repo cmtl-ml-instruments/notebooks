@@ -1,7 +1,7 @@
 # Week N — title
 
-*Copy this, or write it however you like somewhere else and upload a PDF.
-The headings are what matters, not the format.*
+*Copy this into a new file in your folder and fill it in. Plain sentences
+under the headings are fine — you do not need to know any formatting.*
 
 **Name:**
 **Credit hours:**

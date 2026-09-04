@@ -29,19 +29,24 @@ That's it — you've made a real commit.
 Open your file, click the pencil icon, edit, commit again. Every version is
 kept, so you cannot lose work by changing it.
 
-## Or just upload a file
+## You don't need to know markdown
 
-If you would rather write in Word, Google Docs, Pages or anything else, do
-that and upload the **PDF**. Same place — **Add file → Upload files**, into
-your own folder, named for the week:
+Plain sentences are valid markdown. Type under the headings and it renders
+correctly — there is no way to make your notebook look broken by not knowing
+the syntax.
 
+When you want a bit more, this is almost all of it:
+
+```markdown
+## A heading
+**bold**   *italic*
+- a list item
+[link text](https://example.com)
+![an image](my-photo.jpg)
 ```
-firstname-lastname/week-01.pdf
-```
 
-GitHub displays PDFs in the browser, so nobody has to download it to read it.
-Write wherever you are comfortable; what matters is that the work is here,
-weekly, with your name and the date on it.
+That's the whole format. It is also what READMEs, documentation, Notion,
+Obsidian and Discord all use, so it is worth the five minutes.
 
 ## Adding images, audio or a PDF
 
