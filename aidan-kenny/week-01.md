@@ -4,15 +4,15 @@
 in, and commit. Plain sentences under the headings are fine — you do not need
 to know any formatting.*
 
-**Name:** Aidan Kenny
-**Credit hours: 1**
+**Name: Aidan Kenny **
+**Credit hours: 1 **
 **Date: 9/10/26**
 
 ---
 
 ## Goals
 
-This week I plan
+My goal this week was to read through the paper Kyle provided to learn some background to ML in musical instruments. I then intend to research a different gestural instrument/interface 
 
 ## Methods
 
