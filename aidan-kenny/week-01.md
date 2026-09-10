@@ -1,4 +1,4 @@
-# Week N — title
+# Week 1 — title
 
 *This is your notebook for week 1. Click the pencil icon to edit it, fill it
 in, and commit. Plain sentences under the headings are fine — you do not need
@@ -12,7 +12,7 @@ to know any formatting.*
 
 ## Goals
 
-What you set out to do this week.
+This week I plan
 
 ## Methods
 
