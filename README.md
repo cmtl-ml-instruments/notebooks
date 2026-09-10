@@ -8,6 +8,11 @@ a reason for it.
 
 ## Posting your first entry
 
+> **Accept your organization invitation first** — check your email for one
+> from `cmtl-ml-instruments`. If you edit before accepting, GitHub quietly
+> saves your work to a copy of this repository instead of here, and it
+> won't show up for anyone else.
+
 Your folder already exists and your first notebook is already in it.
 
 1. Click your folder above — `firstname-lastname/`.
