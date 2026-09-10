@@ -5,8 +5,8 @@ in, and commit. Plain sentences under the headings are fine — you do not need
 to know any formatting.*
 
 **Name:** Aidan Kenny
-**Credit hours:**
-**Date:**
+**Credit hours: 1**
+**Date: 9/10/26**
 
 ---
 
