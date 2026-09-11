@@ -26,6 +26,7 @@ I started by reading the paper Fiebrink & Sonami, Reflections on Eight Years of 
 What came of it. Include the things that did not work; a negative result you
 can describe is worth more than a success you cannot explain.
 My biggest takeaway from the reading was that ML has a broader application to instruments than I initially thought. While it can act as a way to acheieve more accurate control, it can have more fundamental roles such as allowing physical gestures to articulate sound. As for the theremin, it seems like a fundamental invention in the world of unconventional instruments. It is a small box that uses two antennas to detect the performers hands and picks up different electronic signals based on their movements. One hand controls pitch while the other controls volume, making it a very useable instrument. I also found it interesting that the beach boys used a thermemin in many of their recordings.
+
 ---
 
 ## Reflection
