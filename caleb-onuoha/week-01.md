@@ -29,11 +29,13 @@ I gained a bit more understanding of what exactly ML instruments are and what ge
 ## Reflection
 
 **What worked:** 
+
 Wekinator: What the spring spyre does well is being able to allow the user to emcompass a dynamic range of sounds and "wide" predictability. It was made and "taught" with the idea in mind of being able to do just that. Wekinator allows for all of this to happen.
 
 Dextoria: Dextoria does a wonderful job of integrating itself directly into the standard setups of those who commonly play the guitar, it uses gestures that guitarists are constantly doing in order to produce its outputs which makes it so that nothing new has to be learned. It would even allow for guitarist to move around instead of being anchored to a specific are because of the hardware restrictions.
 
 **What didn't:** 
+
 Wekinator: Wekinator struggles to allow its trained models to perform universally, in other words the spring spyre can really only perform songs made specifically for the spring spyre. It fails to encompass other musical pieces. There is also the issue of being able to control a large number of paramaters at once due to the lack of synthesis methods. This means that more complex synthesis isn't possible.
 
 Dextoria: The device only emcompasses frets 1-9 so it wouldn't be possible to produce sounds that require frets that are higher than that. This is possible something that could be improved upon in the future but as of now it is a notable limitation.
