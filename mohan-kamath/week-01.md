@@ -1,4 +1,4 @@
-# Week N — title
+# Week 1
 
 *This is your notebook for week 1. Click the pencil icon to edit it, fill it
 in, and commit. Plain sentences under the headings are fine — you do not need
