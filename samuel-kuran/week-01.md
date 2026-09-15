@@ -5,20 +5,20 @@ in, and commit. Plain sentences under the headings are fine — you do not need
 to know any formatting.*
 
 **Name:** Samuel Kuran
-**Credit hours:**
-**Date:**
+**Credit hours: 2**
+**Date: 9/11/26**
 
 ---
 
 ## Goals
 
-What you set out to do this week.
+1. Read — [Fiebrink & Sonami, Reflections on Eight Years of Instrument Creation with Machine Learning (NIME 2020).](https://www.nime.org/proceedings/2020/nime2020_paper45.pdf) 
+2. Research one more gestural instrument or interface of interest in any era, using any technology.
+3. Compare what each instrument does well, and what they do not do well. Note where the papers disagree, if applicable. Critique the research.
 
 ## Methods
 
-What you actually did. Link everything you used — papers, videos, repositories,
-documentation, parts. If you used an AI assistant at any point, say so and say
-what you asked it. That is information, not a confession.
+- (http://nime.org/proceedings/2026/nime2026_136.pdf)
 
 ## Results
 
