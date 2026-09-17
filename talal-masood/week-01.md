@@ -58,8 +58,9 @@ The NIME resource had a ton of different papers on various instrumentations that
 
 Two or three specific things, each with a date.
 
-- [ ]
-- [ ]
+- [Collect inspiration for interests, future goals, and instrumentation (in the form a moodboard, list of links and images]
+- [Discuss direction with sub-team]
+- [Play around with board and make something]
 
 ## Meeting notes
 
