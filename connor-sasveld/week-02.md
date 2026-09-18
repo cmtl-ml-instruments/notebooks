@@ -86,7 +86,7 @@ Here are my notes for the SenSynth paper:
 **What worked:**
 
 I learned a lot about how gyroscopes, accelerometers and magnetometers work and can be applied to a synth instrument. I also thought of some ways we could possibly differentiate our project form previous similar projects. I know little to nothing about electrical engineering, so it was helpful for me to start getting familiar with how the project design process goes for these types of projects.
-* I also got my board to load the starter code which I hadn't managed to do in our previous meeting
+* I also got my board to load the starter code which I hadn't managed to do in our previous meeting. I don't have the proximity sensor, I just got the code to load.
 
 **What didn't:**
 
@@ -101,4 +101,4 @@ Two or three specific things, each with a date.
 
 ## Meeting notes
 
-This meeting we were introduced to the ESP32 and loaded up some basic code/learned how to connect basic proximity sensors to our board.
+This meeting we were introduced to the ESP32 and loaded up some basic code/learned how to connect basic proximity sensors to our board. I wasn't able to do much since my dev kit didn't have all the necessary supplies to get the starter code running.
