@@ -90,7 +90,7 @@ I learned a lot about how gyroscopes, accelerometers and magnetometers work and 
 
 **What didn't:**
 
-I could always do more exploring. I still think we could find a way to add an interesting "extra dimension" to our concept, but it is hard to think of something that would naturally integrate into the instrument while still offering a whole new way to interact with the synthesizer.
+I could always do more exploring. I still think we could find a way to add an interesting "extra dimension" to our concept, but it is hard to think of something that would naturally integrate into the instrument while still offering a whole new way to interact with the synthesizer. I had a difficult time finding papers or ideas that reached out of the scope of our current ideas that could fit seamlessly with the idea of a controlling a synth through moving our instrument through space.
 
 ## Next week
 
