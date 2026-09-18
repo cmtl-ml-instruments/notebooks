@@ -1,17 +1,18 @@
-# Week N — title
+# Week 2 — Brainstorming Ideas
 
 *Copy this into a new file in your folder and fill it in. Plain sentences
 under the headings are fine — you do not need to know any formatting.*
 
-**Name:**
-**Credit hours:**
-**Date:**
+**Name: Caleb Onuoha**
+**Credit hours: 1**
+**Date: 9/17/2026**
 
 ---
 
 ## Goals
 
-What you set out to do this week.
+My goals for this week were to look into different examples of machine learning and differernt ways in which this
+project could go so that I could create a Vision Board of what I took inspiration from and which direction I wanted to take the project.
 
 ## Methods
 
@@ -38,7 +39,8 @@ can describe is worth more than a success you cannot explain.
 
 Two or three specific things, each with a date.
 
-- [ ]
+- [ By next week I want to have a clear idea in mind for where we will be taking our project and what the first steps that we need 
+to take are in the design and development process. 9/23/26 ]
 - [ ]
 
 ## Meeting notes
