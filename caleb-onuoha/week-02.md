@@ -12,7 +12,7 @@ under the headings are fine — you do not need to know any formatting.*
 ## Goals
 
 My goals for this week were to look into different examples of machine learning and differernt ways in which this
-project could go so that I could create a Vision Board of what I took inspiration from and which direction I wanted to take the project.
+project could go so that I could create a MoodBoard of what I took inspiration from and which direction I wanted to take the project.
 
 ## Methods
 
@@ -39,7 +39,7 @@ can describe is worth more than a success you cannot explain.
 
 Two or three specific things, each with a date.
 
-- [ By next week I want to have a clear idea in mind for where we will be taking our project and what the first steps that we need 
+- [ By next week I want to have a clear idea in mind for where we will be taking our project as a group and what the first steps that we need 
 to take are in the design and development process. 9/23/26 ]
 - [ ]
 
