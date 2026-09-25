@@ -24,6 +24,14 @@ https://forum.arduino.cc/t/macro-vs-const/91315/13
 - page in resources
 
 
+Attempt at finding the ST7792 for the 3.5'' esp32
+https://www.lcdwiki.com/3.5inch_ESP32-S3_Display#Quick_usage_guide
+https://dl.espressif.com/AE/esp-iot-solution/ST77922_SPEC_V0.1.pdf
+https://github.com/Anda2012/TFT_eSPI_st77922/blob/master/User_Setup_Select.h#L204
+https://github.com/Anda2012/TFT_eSPI_st77922/blob/master/User_Setups/Setup_ST77922_QSPI.h
+https://github.com/Anda2012/TFT_eSPI_st77922/blob/master/TFT_Drivers/ST77922/ST77922_Defines.h#L8
+
+
 ## Results
 
 What came of it. Include the things that did not work; a negative result you
