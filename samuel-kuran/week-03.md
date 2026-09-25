@@ -18,6 +18,12 @@ What you actually did. Link everything you used — papers, videos, repositories
 documentation, parts. If you used an AI assistant at any point, say so and say
 what you asked it. That is information, not a confession.
 
+https://forum.arduino.cc/t/esp32-s3-onboard-rgb-led/1198754/13?page=2
+https://hackaday.com/2015/10/16/code-craft-when-define-is-considered-harmful/
+https://forum.arduino.cc/t/macro-vs-const/91315/13
+- page in resources
+
+
 ## Results
 
 What came of it. Include the things that did not work; a negative result you
