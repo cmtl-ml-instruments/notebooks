@@ -42,5 +42,8 @@ Two or three specific things, each with a date.
 - [ ]
 
 ## Meeting notes
+- Mesh network (ESP-NOW protocol)
+- Find a control variable to compare not using Machine Learning
+- Explore the "perceptual part of the personal experience of the user" and bring that into the research question
 
 Anything from class worth keeping.
