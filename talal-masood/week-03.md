@@ -12,6 +12,9 @@ under the headings are fine — you do not need to know any formatting.*
 ## Goals
 
 What you set out to do this week.
+- Flesh out the project proposal more
+- Utilize the ESP32 to create sound in some way
+- Explore the use of the ESPNOW protocol
 
 ## Methods
 
