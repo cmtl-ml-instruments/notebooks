@@ -43,5 +43,4 @@ Two or three specific things, each with a date.
 - [ ]
 
 ## Meeting notes
-
-Anything from class worth keeping.
+- Thinking about a bicycle idea, attaching one microcontroller to the wheel, then another to the handle bar. The one on the handlebar would have button attachments for various user input allowing for creative expression on top of the baseline wheel inputs, where the one on the wheel would take in data such as speed of the wheel, IMU/accelerometer, and gyroscope data (data that would form a foundational sound to work on top of).
