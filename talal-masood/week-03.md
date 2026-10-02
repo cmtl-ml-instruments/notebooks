@@ -18,14 +18,13 @@ What you set out to do this week.
 
 ## Methods
 
-What you actually did. Link everything you used — papers, videos, repositories,
-documentation, parts. If you used an AI assistant at any point, say so and say
-what you asked it. That is information, not a confession.
+- Utilize ESPNOW documentation (https://www.espressif.com/en/solutions/low-power-solutions/esp-now)
+- Utilize NIME literature with focuses on Machine Learning
+- Utilize an arduino kit for sensors, buttons, wires, and other parts that are compatible with ESP32S3 (also use my other ESP32S3 from another class I'm taking)
 
 ## Results
 
-What came of it. Include the things that did not work; a negative result you
-can describe is worth more than a success you cannot explain.
+- Created a basic setup utilizing two ESP32S3s 
 
 ---
 
