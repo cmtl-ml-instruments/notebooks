@@ -52,11 +52,12 @@ What you set out to do this week.
 ## Reflection
 
 **What worked:**
-
+- What worked was actually wiring up some sort of prototype that produced sound. Using prior experience, I was able to wire it easily myself, then use Gemini Pro to fit the code from the documentation to fit my specific use-case in a quick fashion. I added serial debug statements myself to help debug some issues with the buttons as well.
+- Still haven't gotten a project proposal finalized, but hoping that reading some more papers can help narrow down an idea
 **What didn't:**
-
+- Finalizing a project proposal
 **What I'd do differently:**
-
+- Spending more time researching (starting to realize that consuming and expanding a knowledge base is actually really helpful in understand how a project can fit in a specific space and what that project can bring to the table)
 ## Next week
 
 Two or three specific things, each with a date.
