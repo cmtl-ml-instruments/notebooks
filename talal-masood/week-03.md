@@ -24,8 +24,11 @@ What you set out to do this week.
 
 ## Results
 
-- Created a basic setup utilizing two ESP32S3s 
+- Created a basic setup utilizing ESPNOW to connect two ESP32S3s, in which button input to one esp was sent over Wi-Fi to the second esp, which would take that input and output it to a passive buzzer. The program is basic but it worked well and demonstrated a working use-case for ESPNOW. The resulting passive buzzer sounds were particularly retro sounding and took in 3 button inputs to produce sound
+<img width="3000" height="4000" alt="PXL_20261002_011105996" src="https://github.com/user-attachments/assets/56b095d5-6abc-49da-8c6a-d875eb023185" />
 
+- I also searched NIME for anything Machine Learning related, to help refine project proposal ideas
+- 
 ---
 
 ## Reflection
