@@ -5,13 +5,14 @@ under the headings are fine — you do not need to know any formatting.*
 
 **Name: Talal Masood**
 **Credit hours: 2**
-**Date:**
+**Date: 10.02.26**
 
 ---
 
 ## Goals
 
-What you set out to do this week.
+- Finish project proposal and get it finalized
+- 
 
 ## Methods
 
