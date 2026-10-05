@@ -50,6 +50,7 @@ void setup() {
   Serial.begin(115200);
 
   pinMode(AP_ENABLE, OUTPUT); //Tells pin 1 to send electricity out to control amp power switch
+  
   digitalWrite(AP_ENABLE, LOW); //Sets Amp power enabler to low, wakes up audio amplifier
 
   amy_config_t amy_config = amy_default_config();
@@ -64,6 +65,7 @@ void setup() {
   amy_start(amy_config);
 
   char patch_msg[32]; //Empty 32 character text array
+  
   snprintf(patch_msg, sizeof(patch_msg), "v0,%dc1K160Z", MAX_VOICES - 1);
     //snprintf creates a string and saves it to a character array
       //snprintf(destination buffer, maximum size, fstring, variables for fstring)
@@ -72,6 +74,7 @@ void setup() {
       //c1: Tells AMY we want to configure or copy an instrument profile onto these voices
       //K160 (Patch Key 160): Selects specific sound, 160 is a built-in electric piano
       //Z: End of message 
+      
   amy_add_message(patch_msg);
 
   USBSerialMIDI.begin();
