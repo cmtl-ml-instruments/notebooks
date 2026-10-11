@@ -15,32 +15,32 @@
 
 ## Methods
 
-What you actually did. Link everything you used — papers, videos, repositories,
-documentation, parts. If you used an AI assistant at any point, say so and say
-what you asked it. That is information, not a confession.
+- I got sick on Thursday of this week, unfortunately. I had to cancel my subgroup meeting with Caleb and Talal, and I did not show show up to the main VIP meeting.
+- I got the meeting summary from my teammates in our next meeting.
+- It was also Fall Break, so I spent the time trying to recover.
 
 ## Results
 
 What came of it. Include the things that did not work; a negative result you
 can describe is worth more than a success you cannot explain.
 
+- I apologize, I did not get much done this week.
+
 ---
 
 ## Reflection
 
 **What worked:**
-
+- I was at least able to communicate my situation with my teammates and with Kyle.
 **What didn't:**
-
+- It seemed my team lacked direction this week. So next week, we tried to hone in on our project proposal.
 **What I'd do differently:**
-
+- It's important to make some progress before Thursday, so I don't have to do it all Thursday night.
 ## Next week
 
-Two or three specific things, each with a date.
-
-- [ ]
-- [ ]
+- Continue to push for subgroup meeting at the HIVE - 10/8
+- Brainstorm project proposal ideas with the team - 10/8
 
 ## Meeting notes
 
-Anything from class worth keeping.
+N/A
