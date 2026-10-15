@@ -6,7 +6,7 @@ under the headings are fine — you do not need to know any formatting.*
 
 **Name: Talal Masood**
 **Credit hours: 2**
-**Date: 10.15.26**
+**Date: 10.07.26**
 
 ---
 
