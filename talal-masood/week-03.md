@@ -58,12 +58,6 @@ What you set out to do this week.
 - Finalizing a project proposal
 **What I'd do differently:**
 - Spending more time researching (starting to realize that consuming and expanding a knowledge base is actually really helpful in understand how a project can fit in a specific space and what that project can bring to the table)
-## Next week
-
-Two or three specific things, each with a date.
-
-- [ ]
-- [ ]
 
 ## Meeting notes
 - Mesh network (ESP-NOW protocol)
