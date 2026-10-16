@@ -43,8 +43,8 @@ available for my use, which would allow for more concise and more effective cust
 
 Two or three specific things, each with a date.
 
-- [ Complete the 3D CAD instrument design in the sense that it will be print ready (10/21/26) ]
-- [ Meet and discuss our next steps and goals for the week as a group so we know what to expect from eachother and ourselves. (10/19/26) ]
+- [Complete the 3D CAD instrument design in the sense that it will be print ready and physically available for Friday's meeting. (10/21/26)]
+- [Meet and discuss our next steps and goals for the week as a group so we know what to expect from eachother and ourselves. (10/19/26)]
 
 ## Meeting notes
 
