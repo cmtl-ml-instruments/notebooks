@@ -31,6 +31,9 @@
 - I struggled with troubleshooting the serial to max connection, which I've heard is not uncommon. Through forums and trial and error, I learned some of the pitfalls, like how you cannot have the Serial Monitor running while trying to send it to Max (I had it running to debug, ironically). I posted this info in the resources tab to help others.
 - I was ultimately successful in getting the sensor data in Max. We can now move towards developing the ML mapping system and concurrently, a suitably flexible synthesis system.
   - It's important to smooth the data of the serial input to avoid popping from amplitude discontinuities.
+Here's an image of the main patch.
+<img width="632" height="800" alt="Screen Shot 2026-10-16 at 7 02 46 PM" src="https://github.com/user-attachments/assets/0050c91f-9be3-477b-86e6-e46ae9e14900" />
+
 
 ---
 
