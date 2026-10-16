@@ -30,6 +30,9 @@ under the headings are fine — you do not need to know any formatting.*
 
 - Here is a picture, I wired stranded wire with jumper cables because they were easier to insert into the breadboard.
 <img width="3000" height="4000" alt="PXL_20261015_172928494" src="https://github.com/user-attachments/assets/c7e35060-e66d-48ad-8768-f6da3fabc12d" />
+<img width="525" height="313" alt="Screenshot 2026-10-15 at 1 36 53 PM" src="https://github.com/user-attachments/assets/a4b26c9e-5c2f-46a8-92d0-b9f40bc33cb5" />
+<img width="545" height="275" alt="Screenshot 2026-10-15 at 1 37 04 PM" src="https://github.com/user-attachments/assets/c39ba3d1-b1de-4530-97a9-b80e71f5011c" />
+
 
 
 ---
