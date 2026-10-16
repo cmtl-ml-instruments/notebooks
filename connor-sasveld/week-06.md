@@ -32,6 +32,8 @@ I used AI to help explain the functions that are used to initialize LVGL for use
 
 I was able to design a simple one slider UI in EEZ studio and then port it over to the ESP32 screen. I also got the touch screen working so the user can interact with the slider. I got here after hours of figuring out how to properly get both LVGL working and the touch screen working without any graphical glitches. It took me a long time to figure out how to make the touch screen accurate to where my fingers are on the screen.
 
+I added the final code I ended up with in the LVGLSliderFreqCutoff folder. It is made for the FNK0104 (2.8 inch touch screen Freenove ESP32S3). 
+
 ---
 
 ## Reflection
