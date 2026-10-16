@@ -27,14 +27,10 @@
 
 ## Results
 
-What came of it. Include the things that did not work; a negative result you
-can describe is worth more than a success you cannot explain.
-
 - My role going forward is to work on connecting the ML and synthesis aspects of the instrument, since I have the most audio programming experience.
 - I struggled with troubleshooting the serial to max connection, which I've heard is not uncommon. Through forums and trial and error, I learned some of the pitfalls, like how you cannot have the Serial Monitor running while trying to send it to Max (I had it running to debug, ironically). I posted this info in the resources tab to help others.
 - I was ultimately successful in getting the sensor data in Max. We can now move towards developing the ML mapping system and concurrently, a suitably flexible synthesis system.
-- 
-
+  - It's important to smooth the data of the serial input to avoid popping from amplitude discontinuities.
 
 ---
 
@@ -44,23 +40,23 @@ can describe is worth more than a success you cannot explain.
 Meeting on Monday was great for getting us aligned and motivated, leaving us time to work independently before Thursday.
 
 **What didn't:**  
-
+- Currently, it will be hard for people to access my starter-sound-patch on the online github, because it's hard to download a directory. For efficient and safer code collaboration, each of us will need to clone the instrument > group 1 folder. Kyle has given me a nice terminal command to help!
+- Frequently while connecting serial to max, my USB disconnected from the computer. I might look into a solution.
 
 **What I'd do differently:**  
-
+Still need to get notebook in before Thursday meeting.
 
 ## Next week  
 
 - Group Goal: Finish CAD design V2 and begin attaching hardware devices to the physical product. Have an ML patch that runs without bugs. Have a starter synthesis patch - Friday 10/23
   - Personal Goal: Contribute to starter ML and synthesis patches.
 - Meet with Caleb and Talal at the HIVE - Monday 10/19 7pm
-  - Work on the decision points of the instrument: how many sensors, how each gestural motion should affect the sound, length of the chain, etc.
+  - Work on the decision points of the instrument: how many sensors, how each gestural motion should affect the sound, length of the chain, synthesis method(s), role of the gloves etc.
   - Figure out a plan with Talal on how we will work together on the ML patch. 
-  - Role of the gloves, and complexity of the input. 
 
 ## Meeting notes
 
 - Kyle showed us an ML-driven instrument he made. It was very cool to see the ML in action.
 - Connecting IRIS and Max/Pd is something Kyle has yet to do, so it would be good.
-  - If you have the time, an IRIS object would be even better.
+  - If you have the time, an iris object would be even better.
 - The IRIS ML system is small enough to support training in device. That is a cool feature to consider if our mapping ends up small enough.
