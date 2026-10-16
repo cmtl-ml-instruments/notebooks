@@ -33,6 +33,60 @@ under the headings are fine — you do not need to know any formatting.*
 <img width="525" height="313" alt="Screenshot 2026-10-15 at 1 36 53 PM" src="https://github.com/user-attachments/assets/a4b26c9e-5c2f-46a8-92d0-b9f40bc33cb5" />
 <img width="545" height="275" alt="Screenshot 2026-10-15 at 1 37 04 PM" src="https://github.com/user-attachments/assets/c39ba3d1-b1de-4530-97a9-b80e71f5011c" />
 
+Here is the code for the capacitance measure:
+        #include "iris.h"
+        
+        
+        static uint8_t arena[IRIS_ARENA(3, 8, 1, 12)];
+        
+        iris *instrument; 
+        
+        const int PIN_INDEX = 1;  
+        const int PIN_MIDDLE = 2; 
+        const int PIN_THUMB = 3;  
+        const int BOOT_BTN = 0;   
+        
+        int take_count = 0;
+        
+        void setup() {
+          Serial.begin(115200);
+          pinMode(BOOT_BTN, INPUT_PULLUP);
+          
+          // Args: mem, bytes, n_in, n_hid, n_out, cap, seed
+          instrument = iris_init(arena, sizeof(arena), 3, 8, 1, 12, 12345);
+        }
+        
+        void loop() {
+          float sensors[3];
+          float output[1];
+          
+          // Read the raw capacitance from your skin
+          sensors[0] = (float)touchRead(PIN_INDEX); 
+          sensors[1] = (float)touchRead(PIN_MIDDLE); 
+          sensors[2] = (float)touchRead(PIN_THUMB); 
+        
+          iris_predict(instrument, sensors, output);
+        
+          if (digitalRead(BOOT_BTN) == LOW) {
+            float target[1] = { (float)take_count };
+            
+            iris_record(instrument, sensors, target);
+            iris_train(instrument); 
+            
+            take_count++;
+            if(take_count > 3) take_count = 0;
+            
+            delay(1000); // Debounce button
+          }
+        
+          Serial.print("Index:"); Serial.print(sensors[0]); Serial.print(",");
+          Serial.print("Middle:"); Serial.print(sensors[1]);  Serial.print(",");
+          Serial.print("Thumb:"); Serial.print(sensors[2]); Serial.print(",");
+          Serial.print("Pose_State:"); Serial.println(output[0] * 100); 
+          
+          delay(25); 
+        }
+
 
 
 ---
