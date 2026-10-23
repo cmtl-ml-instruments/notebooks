@@ -1,7 +1,5 @@
 # Week 7 — Finishing CAD
 
-*Copy this into a new file in your folder and fill it in. Plain sentences
-under the headings are fine — you do not need to know any formatting.*
 
 **Name: Aidan Kenny**
 **Credit hours: 1**
