@@ -22,11 +22,16 @@ documentation, parts. If you used an AI assistant at any point, say so and say
 what you asked it. That is information, not a confession.
 
 - Cloned our group1 folder and updated the starter sound patch. Added .gitignore file to our instrument repo for .DS_Store
+- Took notes on hardware page, looking for the most important items we need
+- Took notes on the LSM6DSOX 6 degrees of freedom accelerometer/gyroscope (6Dof). Installed the required libraries.
 
 ## Results
 
 What came of it. Include the things that did not work; a negative result you
 can describe is worth more than a success you cannot explain.
+
+- I realized that a multiplexer will be essential to our instrument design, involving multiple 6Dofs.
+- The I2C connectors I have for the sonar sensor seem too big for the 6Dof, so I was not able to connect the 6Dof to my ESP32.
 
 ---
 
