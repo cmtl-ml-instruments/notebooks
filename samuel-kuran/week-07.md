@@ -37,11 +37,13 @@ can describe is worth more than a success you cannot explain.
 
 ## Reflection
 
-**What worked:**
+**What worked:**  
+I learned Adafruit has [great documentation](https://learn.adafruit.com), covering their parts from the pin layout to the arduino examples. I will continue to use this as a resource.
 
-**What didn't:**
+**What didn't:**  
 
-**What I'd do differently:**
+
+**What I'd do differently:**  
 
 ## Next week
 
