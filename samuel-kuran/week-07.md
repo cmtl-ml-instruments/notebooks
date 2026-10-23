@@ -23,7 +23,7 @@ what you asked it. That is information, not a confession.
 
 - Cloned our group1 folder and updated the starter sound patch. Added .gitignore file to our instrument repo for .DS_Store
 - Took notes on hardware page, looking for the most important items we need
-- Took notes on the LSM6DSOX 6 degrees of freedom accelerometer/gyroscope (6Dof). Installed the required libraries.
+- Took notes on the [LSM6DSOX 6 degrees of freedom accelerometer/gyroscope](https://learn.adafruit.com/lsm6dsox-and-ism330dhc-6-dof-imu/arduino) (6Dof). Installed the required libraries.
 
 ## Results
 
