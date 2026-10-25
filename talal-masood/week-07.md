@@ -29,7 +29,7 @@ under the headings are fine — you do not need to know any formatting.*
 - I could reliably power the accelerometer, and connect the two ESP32s via ESPNow; however, unfortunately I could get the accelerometer to properly work using jumper wires due to a likely unstable connection with the pins, as the accelerometer is unsoldered and does not support a JST connection, rather it supports a Stemma connection.
 - Because of this, I wasn't able to train the model like I planned to.
 - Here's a photo of the hardware setup:
-<img width="1000" height="2000" alt="PXL_20261023_032115064" src="https://github.com/user-attachments/assets/51724ddc-ab8a-4fee-8e2b-0e0b7ceffbe6" />
+<img width="900" height="1200" alt="PXL_20261023_032115064" src="https://github.com/user-attachments/assets/51724ddc-ab8a-4fee-8e2b-0e0b7ceffbe6" />
 
 
 ---
