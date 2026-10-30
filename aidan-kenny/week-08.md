@@ -51,6 +51,8 @@ Create indents for the screws in the lower hemisphere base platform (Brass heat 
 
 Two or three specific things, each with a date.
 
+
+- [11/2] - Update Github with a design log with pictures, progress, and links
 - [11/6] - Finish next design with new features
 - [11/13] - Print out new design and solder brass heat inserts
 
