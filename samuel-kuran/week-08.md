@@ -59,3 +59,4 @@ Mainly trying to publish my work to the repo in time for the team meeting.
 - We need to include some research documentation this coming week. The quality is measured by how replicable our instrument is from the documentation details.
 - Caleb has a high quality camera that we can use for research pictures
 - Mohan posted his gyroscope code and setup to his notebook.
+- Kyle gave us the ESP-32 feather with wifi connectivity. Solves so many problems!
