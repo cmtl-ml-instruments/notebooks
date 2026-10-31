@@ -43,8 +43,6 @@ Mainly trying to publish my work to the repo in time for the team meeting.
 
 ## Next week  
 
-Two or three specific things, each with a date.  
-
 - Group Goal: (tentative) We wire the instrument. Starting the IRIS patch- Friday 11/6
 - Personal Goal: Finish the granular synthesis patch. At a minimum, the cloud controls should be there. More impressive would be the physical modelling part.
   - Stretch: Look at the movements of ribbon dancers and baton throwers for inspiration on movement controls.
