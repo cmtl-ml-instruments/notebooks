@@ -1,4 +1,4 @@
-# Week N — Moving to Physical Design
+# Week 4 — Moving to Physical Design
 
 *Copy this into a new file in your folder and fill it in. Plain sentences
 under the headings are fine — you do not need to know any formatting.*
