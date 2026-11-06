@@ -35,6 +35,8 @@ Each of the sound design menu items are located in a navigation bar at the botto
 
 I did not get to any of the IRIS implementation this week primarily because my group wasn't able to meet during this week. Hopefully we can carve out some substantial time this weekend to put all the pieces together, but overall, I think we are in a really good place for our prototype deadline.
 
+My code is in the GutterballUI3.5 directory in the group-2 instruments dir. I have a description of the necessary libraries that are needed.
+
 ---
 
 ## Reflection
