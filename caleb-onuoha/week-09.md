@@ -30,20 +30,21 @@ in a way that won't disrupt functionality.
 
 ## Reflection
 
-**What worked:** 
+**What worked:** I know exaclty what I need to focus on doing for my next steps, I just need to implement it and then further coordinate with my team so we can make group progress.
 
 **What didn't:** Due to circumstances I was prevented from working on the project when I had initially planned too and I was also unable to attend
 the full team meeting on Friday, but the plan will be to meet with my team in the coming week to be caught up on whatever I may have missed
 as well as check everyone's progress on their individual goals.
 
-**What I'd do differently:** 
+**What I'd do differently:** I would try and set aside or find more time that we can meet together as a group, those are the times where we tend to make the greatest amount of progress in both planning and 
+implementation because we can coordinate and converse together.
 
 ## Next week
 
 Two or three specific things, each with a date.
 
 - [ Work on another CAD model that would allow for easy spaces for the sensors to sit and smaller chain links that will prevent tangling of the chain. (11/13/26) ]
-- [ ]
+- [ Determine a way to put the button inputs on the handle where we can wire it to the esp32 since we do not have another esp32 feather (11/13/26) ]
 
 ## Meeting notes
 
