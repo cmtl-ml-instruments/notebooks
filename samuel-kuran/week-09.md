@@ -31,6 +31,8 @@ what you asked it. That is information, not a confession.
 What came of it. Include the things that did not work; a negative result you
 can describe is worth more than a success you cannot explain.  
 
+[Book of the mathematics of music](https://galileo-gatech.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&context=L&vid=01GALI_GIT:GT&vid=01GALI_GIT&docid=cdi_globaltitleindex_catalog_286865516&tab=default_tab&lang=en)
+
 ---
 
 ## Reflection  
