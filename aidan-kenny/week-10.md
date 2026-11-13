@@ -1,17 +1,18 @@
-# Week N — title
+# Week 10 — Wrapping up Design
 
 *Copy this into a new file in your folder and fill it in. Plain sentences
 under the headings are fine — you do not need to know any formatting.*
 
-**Name:**
-**Credit hours:**
-**Date:**
+**Name: Aidan Kenny**
+**Credit hours: 1**
+**Date: 11/13**
 
 ---
 
 ## Goals
 
 What you set out to do this week.
+My goal this
 
 ## Methods
 
