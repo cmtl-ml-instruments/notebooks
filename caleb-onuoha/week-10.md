@@ -50,6 +50,7 @@ Two or three specific things, each with a date.
 
 - [ Finish wiring and assembly on the current prototype (11/16/26) ]
 - [ Have a completed prototype that can be used for testing and experimentation (11/20/26) ]
+- [ Begin updating and making changes to CAD model to prep for the 3D print of the final model. (11/17/26) ]
 
 ## Meeting notes
 
