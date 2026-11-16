@@ -16,10 +16,17 @@
 - An important secondary goal is to complete the sound of the instrument by giving each grain the sound of a bowed string. Make sure these changes don't jeopardize a functioning product. - Friday 11/13
 
 ## Methods  
-
-- 
+- Researched the acoustics of string instruments and listened to some of my favorite pieces involving string instruments to try to emulate them in Max.
+  - [Violin Acoustics Intro](https://newt.phys.unsw.edu.au/jw/violintro.html)
+  - [String example](https://youtu.be/ze0Rk-m0w2A?t=310)
+  - [Bow Exciter Heimholtz Cycle](https://newt.phys.unsw.edu.au/jw/Bows.html)
+  - [Wave Guide Synthesis of String](https://www.dsprelated.com/freebooks/pasp/Digital_Waveguide_Bowed_String.html) (I needed more understanding to fully grasp this part)
+- Modified
 
 ## Results  
+
+- I synthesized a decently convincing bowed-string sound by modifying the Karplus strong algorithm. Analog instrument emulation is something I am passionate about, so this is really great! I used the resources above, and my ear, and played with Karplus strong until I was happy.
+  - Note, the upper pitch range of the instrument is limited to midi 77 because of limitations  in the delay time from tapout~. I intend to use sample delays in gen~ to fix this.
 
 What came of it. Include the things that did not work; a negative result you
 can describe is worth more than a success you cannot explain.  
