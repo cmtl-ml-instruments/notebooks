@@ -56,3 +56,6 @@ In general, anticipating gaps in communication is the skill.
 
 - It was mostly work time. We are going into the week of the prototype. User testing is going to happen.
 - Mohan gave me permission to use his [wifi script](https://github.com/cmtl-ml-instruments/instruments/blob/8f143dd403e80c6f2044346c4dcb23d90ae37dfb/group-2/ESP32-code/firmware/FeatherTransmitter/FeatherTransmitter.ino) to connect the ESP32 feather. He also said to check out the ESPNOW and Feather documentation.
+- I learned some of the ways the iris parameter differs from a hard-coded one.
+  - We do not have to think about the bounds of physical parameters such as the max speed we can spin the instrument. Just spin it fast and have iris map that speed to the fast setting. Iris is flexible, because we can easily reconfigure the mapping.
+  - The parameters are coupled together as a vector. This is cool for variation in the sound, but it might impair the pitch relation to vertical distance. It comes with all of the idiosyncrasies of a statistical model. Training parameters separately requires multiple model instances running, which is doable, but we'll start without it.
