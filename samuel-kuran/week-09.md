@@ -56,4 +56,5 @@ Ideally: our group goal for next week is to have a minimum viable product. With 
 
 - Kyle gave us a great starter code to connect Iris to our instrument. It already works!
 - I demoed my new granular sound. It was very interesting, but more ghostly than I intended.
+- The degree values of the gyroscope are modded according to Kyle. So 360 will jump to 0. We need to have a procedure to deal with that when mapping angular velocity.
 
