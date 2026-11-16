@@ -21,38 +21,39 @@
 
 
 ## Methods  
-
-What you actually did. Link everything you used — papers, videos, repositories,
-documentation, parts. If you used an AI assistant at any point, say so and say
-what you asked it. That is information, not a confession.  
+- Met with Caleb and Talal at the HIVE Monday 7:30-8:15.
+  - We discussed that allowing the performer to switch hands in performance, while ideal, is not possible if we put buttons on the glove.
+  - We soldered one of the 6-degrees-of-freedom gyroscopes (6dofs) to its secondary address.
+  - We discussed whether or not we should buy an absolute orientation compass. We did not.
+- Talal and I talked separately about the iris integration within the project.
 
 ## Results  
 
-What came of it. Include the things that did not work; a negative result you
-can describe is worth more than a success you cannot explain.  
-
-[Book of the mathematics of music](https://galileo-gatech.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&context=L&vid=01GALI_GIT:GT&vid=01GALI_GIT&docid=cdi_globaltitleindex_catalog_286865516&tab=default_tab&lang=en)
-
+- I successfully modified the granular synth to take duration, density, bandwidth, and pitch as inputs to the cloud generator. The grain generator was changed from sampling synthesis to a sine-wave placeholder.
+- In our meeting, Talal and I realized that my [suggested mapping](https://github.com/cmtl-ml-instruments/instruments/blob/main/group-1/Instrument%20Worksheet.md#8-decision-points) of physical parameters to grain parameters was one-to-one. So, we struggled to justify the use of iris. However, at the Friday meeting, Kyle encouraged us to explore the differences that result from using ML in the mapping compared to hard-coding it.
+- Talal and I touched on the idea of including uniformity in the sound of the instrument. That is, when we have multiple parts spinning in different directions, we want that to sound different compared to when those parts are spinning in a uniform way. This could be implemented by making each gyroscope besides the handle control its own granular stream, (its angular velocity and acceleration control the grain density and bandwidth, respectively). Another way would be to have the signal from one stream modulate another stream in some way. The prototype will only have two gyroscopes--one on the handle, and one on the end. But I will keep this in mind for the future.
 ---
 
 ## Reflection  
 
 **What worked:**  
-
+Working through our problems with iris as a group, including asking for Kyle's input was productive. Meeting on Monday is always effective.
 
 **What didn't:**  
-
+The subgroup meeting was too short to cover everything. We were busy.
 
 **What I'd do differently:**  
-
+Should have given Caleb the multiplexer after our subgroup meeting, so he could consider it in the wiring.
 
 ## Next week  
 
-Two or three specific things, each with a date.  
-
-- [ ]
-- [ ]
+Ideally: our group goal for next week is to have a minimum viable product. With Kyle’s Iris script done, it is totally possible to connect the entire instrument to max. - Friday 11/13
+- I’m going to be very busy with this Neo Arcade event for another class, but I’d like to add physical modeling synthesis to the patch and help with the angular acceleration and position calculations. - Friday 11/13
+- Meet with subgroup post Neoarcade - Thursday 11/12
+  - create a script to get angular acceleration and other values from the 6dofs that we need for the training.
 
 ## Meeting notes  
 
-Anything from class worth keeping.  
+- Kyle gave us a great starter code to connect Iris to our instrument. It already works!
+- I demoed my new granular sound. It was very interesting, but more ghostly than I intended.
+
