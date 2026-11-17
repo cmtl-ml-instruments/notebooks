@@ -21,15 +21,14 @@
   - [String example](https://youtu.be/ze0Rk-m0w2A?t=310)
   - [Bow Exciter Heimholtz Cycle](https://newt.phys.unsw.edu.au/jw/Bows.html)
   - [Wave Guide Synthesis of String](https://www.dsprelated.com/freebooks/pasp/Digital_Waveguide_Bowed_String.html) (I needed more understanding to fully grasp this part)
-- Modified
+- Met with Caleb and Talal Monday 11/16 7:30pm
+  - Made slow progress on the connecting scripts from the instrument to max.
 
 ## Results  
 
 - I synthesized a decently convincing bowed-string sound by modifying the Karplus strong algorithm. Analog instrument emulation is something I am passionate about, so this is really great! I used the resources above, and my ear, and played with Karplus strong until I was happy.
   - Note, the upper pitch range of the instrument is limited to midi 77 because of limitations  in the delay time from tapout~. I intend to use sample delays in gen~ to fix this.
-
-What came of it. Include the things that did not work; a negative result you
-can describe is worth more than a success you cannot explain.  
+- I struggled for a long time just to get Kyle's code working again for iris. We ultimately figured out that the issue was coming from bent pins in the Adafruit feather. I expect that was my fault, so lesson learned to avoid forcing things. Luckily Caleb was able to fix the pins.
 
 ---
 
