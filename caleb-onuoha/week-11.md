@@ -40,11 +40,10 @@ sure that the gyroscpopes, multiplexor, and ESP32 Feather remain in place throug
 ## Reflection  
 
 **What worked:**  We met together as a group the night of 11/16/26 (Monday) which was extremely useful and we were able to make a lot of progress 
-together as a group. We plan to meet more times this week as a group in order to complete the project.
+together as a group. We plan to meet more times this week as a group in order to complete the project. We met together on 11/17/26 (Tuesday) in order to conitnue working on our project, we are much more effective and efficient when we work together as a group and it has proved to be incredibly useful.
 
-
-**What didn't:**  
-
+**What didn't:**  As much time as we spend working, time also plays to be the main restrictor to our work, it feels as if there is never enough despite how
+much we put in.
 
 **What I'd do differently:**  
 
