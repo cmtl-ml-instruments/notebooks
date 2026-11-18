@@ -29,6 +29,8 @@ wrap to the desired parts of the model so that they flow together.
 There was an issue with 2 of the 4 pins on one of the ESP32 Feather's that we had so I had to reallign the pins to allow for the connections and current
 to function as they were intended to.
 
+It was determined that The ESP32 feather will require a powersource to function as it cannot remain connected to laptop/computer during demonstration, requires the inclusion of a battery pack which will be wired to a USB type A female breakout with a type A to Type C wire for connection to the ESP32 Feather. I initially attempted to use a dual AA battery holder but that only supplied a maximum of three volts which wasn't enough to supply constant power to the circuit. I then used a four battery AA battery pack with three batteries to supply four and a half volts, and connected the last battery holder section with a wire to complete the series circuit and allow current to flow and voltage to be supplied, without overheating or burning out the circuit.
+
 ## Results  
 
 What came of it. Include the things that did not work; a negative result you
@@ -36,6 +38,8 @@ can describe is worth more than a success you cannot explain.
 
 The physical model is not complete aside from the finalized CAD model which is the next part that I will be working on. The only thing in question is making
 sure that the gyroscpopes, multiplexor, and ESP32 Feather remain in place throughout use of the instrument.
+
+The power situation was solved with inclusion of the battery pack, with this inclusion I will also have to make adjustments to the CAD model to allow for a proper place of incusion for the battery pack.
 
 ## Reflection  
 
@@ -45,7 +49,7 @@ together as a group. We plan to meet more times this week as a group in order to
 **What didn't:**  As much time as we spend working, time also plays to be the main restrictor to our work, it feels as if there is never enough despite how
 much we put in.
 
-**What I'd do differently:**  
+**What I'd do differently:**  This week I don't think there is much that I would've done differently, it was one of our best working weeks both as a group and individually and we were able to achieve results that were directly in line with our intial planning.
 
 
 ## Next week  
