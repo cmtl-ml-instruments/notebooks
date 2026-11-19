@@ -23,7 +23,7 @@
   - [Wave Guide Synthesis of String](https://www.dsprelated.com/freebooks/pasp/Digital_Waveguide_Bowed_String.html) (I needed more understanding to fully grasp this part)
 - Met with Caleb and Talal Monday 11/16 7:30pm
   - Made slow progress on the connecting scripts from the instrument to max.
- - Met with Caleb and Talal Tuesday 11/17 7:30pm
+- Met with Caleb and Talal Tuesday 11/17 7:30pm
   - Got sound out of max triggered by instrument, but lacking in physical control. Started to debug the arduino script.
   - Had Talal start on a script for sending and receiving data from both gyroscopes using the multiplexer.
 - Met with Caleb and Talal Monday 11/18 6:30pm
