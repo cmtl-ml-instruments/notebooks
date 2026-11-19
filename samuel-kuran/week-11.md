@@ -20,7 +20,8 @@
   - [Violin Acoustics Intro](https://newt.phys.unsw.edu.au/jw/violintro.html)
   - [String example](https://youtu.be/ze0Rk-m0w2A?t=310)
   - [Bow Exciter Heimholtz Cycle](https://newt.phys.unsw.edu.au/jw/Bows.html)
-  - [Wave Guide Synthesis of String](https://www.dsprelated.com/freebooks/pasp/Digital_Waveguide_Bowed_String.html) (I needed more understanding to fully grasp this part)
+  - [Wave Guide Synthesis of String](https://www.dsprelated.com/freebooks/pasp/Digital_Waveguide_Bowed_String.html) (I needed more understanding to fullygrasp this part)
+  - [Violin Vibrato Playing Guide](https://www.diorviolin.com/post/the-complete-guide-to-violin-vibrato)
 - Met with Caleb and Talal Monday 11/16 7:30pm
   - Made slow progress on the connecting scripts from the instrument to max.
 - Met with Caleb and Talal Tuesday 11/17 7:30pm
@@ -28,6 +29,7 @@
   - Had Talal start on a script for sending and receiving data from both gyroscopes using the multiplexer.
 - Met with Caleb and Talal Monday 11/18 6:30pm
   - Continued debugging arduino script. Made debug functions and made code more modular.
+- Viol
 
 ## Results  
 
