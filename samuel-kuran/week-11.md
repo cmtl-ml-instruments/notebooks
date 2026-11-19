@@ -23,22 +23,29 @@
   - [Wave Guide Synthesis of String](https://www.dsprelated.com/freebooks/pasp/Digital_Waveguide_Bowed_String.html) (I needed more understanding to fully grasp this part)
 - Met with Caleb and Talal Monday 11/16 7:30pm
   - Made slow progress on the connecting scripts from the instrument to max.
+ - Met with Caleb and Talal Tuesday 11/17 7:30pm
+  - Got sound out of max triggered by instrument, but lacking in physical control. Started to debug the arduino script.
+  - Had Talal start on a script for sending and receiving data from both gyroscopes using the multiplexer.
+- Met with Caleb and Talal Monday 11/18 6:30pm
+  - Continued debugging arduino script. Made debug functions and made code more modular.
 
 ## Results  
 
 - I synthesized a decently convincing bowed-string sound by modifying the Karplus strong algorithm. Analog instrument emulation is something I am passionate about, so this is really great! I used the resources above, and my ear, and played with Karplus strong until I was happy.
   - Note, the upper pitch range of the instrument is limited to midi 77 because of limitations  in the delay time from tapout~. I intend to use sample delays in gen~ to fix this.
 - I struggled for a long time just to get Kyle's code working again for iris. We ultimately figured out that the issue was coming from bent pins in the Adafruit feather. I expect that was my fault, so lesson learned to avoid forcing things. Luckily Caleb was able to fix the pins.
+- We are not getting any data out of the gyroscope on the end. We verified the gyroscope is working, so the sender/receiver code has a bug.
+- The position is not tracking appropriately. It keeps ticking upward without bound.
 
 ---
 
 ## Reflection  
 
 **What worked:**  
-
+We all miraculously have lots of time this week, so we could meet regularly.
 
 **What didn't:**  
-
+The compiler on Arduino takes forever to compile, which can really slow progress when I am still learning C++, and tend to make simple syntax errors.
 
 **What I'd do differently:**  
 
