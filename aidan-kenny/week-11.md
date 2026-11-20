@@ -27,28 +27,29 @@ I retrieved my print from couch and tested its changes. I also read through the 
 
 What came of it. Include the things that did not work; a negative result you
 can describe is worth more than a success you cannot explain.
-The print came out beautifully, the lock mechanim is fast and i have no worries of the hemispheres disconnecting mid performance. 
+The print came out beautifully, the lock mechanim is fast and I have no worries of the hemispheres disconnecting mid performance. Unfortunatly due to a busy week of midterms,
+I was unable to install the heat inserts.
 
 
 ---
 
 ## Reflection  
 
-**What worked:**  
+**What worked: Catching up on the work of my peers**  
 
 
-**What didn't:**  
+**What didn't: Installing the heat inserts**  
 
 
-**What I'd do differently:**  
+**What I'd do differently: Install the heat inserts**  
 
 
 ## Next week  
 
 Two or three specific things, each with a date.  
 
-- [ ]
-- [ ]
+- [11/24] - Install heat inserts
+- [12/4] - Functioning Instrument
 
 ## Meeting notes  
 
