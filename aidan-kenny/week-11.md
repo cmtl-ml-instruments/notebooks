@@ -12,7 +12,7 @@ under the headings are fine — you do not need to know any formatting.*
 ## Goals  
 
 What you set out to do this week.
-My goal this week was to install head inserts into the model.
+My goal this week was to confirm the new model was effective and install heat inserts into the model.
 
 
 ## Methods  
