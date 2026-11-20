@@ -27,6 +27,7 @@ I retrieved my print from couch and tested its changes. I also read through the 
 
 What came of it. Include the things that did not work; a negative result you
 can describe is worth more than a success you cannot explain.
+The print came out beautifully, the lock mechanim is fast and i have no worries of the hemispheres disconnecting mid performance. 
 
 
 ---
