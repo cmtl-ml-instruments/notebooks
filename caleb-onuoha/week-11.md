@@ -47,17 +47,17 @@ The power situation was solved with inclusion of the battery pack, with this inc
 together as a group. We plan to meet more times this week as a group in order to complete the project. We met together on 11/17/26 (Tuesday) in order to conitnue working on our project, we are much more effective and efficient when we work together as a group and it has proved to be incredibly useful.
 
 **What didn't:**  As much time as we spend working, time also plays to be the main restrictor to our work, it feels as if there is never enough despite how
-much we put in.
+much we put in. A lot of the wires also kept breaking under stress or even sometimes when the instrument was not in use, this reveals an issue that lies in how the current instrument was put together, the soldering could be weak/not extremely well done or the wires themselves could be easy to split. Needs to be addressed to prevent further issues.
 
-**What I'd do differently:**  This week I don't think there is much that I would've done differently, it was one of our best working weeks both as a group and individually and we were able to achieve results that were directly in line with our intial planning.
+**What I'd do differently:**  This week I don't think there is much that I would've done differently, it was one of our best working weeks both as a group and individually and we were able to achieve results that were directly in line with our intial planning. If anything I would need to take a lot of times to solder the wires in a more "professional" way to ensure that wire splitting/breaking isn't one of the worries that we have.
 
 
 ## Next week  
 
 Two or three specific things, each with a date.  
 
-- [ ]
-- [ ]
+- [ Resolder the broken parts of the wire and try to ensure that it won't continue to break. (11/30/26) ]
+- [ Work on Updated CAD Model (11/27/26) ]
 
 ## Meeting notes  
 
